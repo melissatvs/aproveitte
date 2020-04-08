@@ -7,7 +7,7 @@ Aproveitte tudo o que tem, zero despedícios!
 
 ### Bolo de Cenoura
 
-Tinha em casa muita cenoura para o tanto que consumimos em casa (450g).
+Em casa tinha muita cenoura para o tanto que consumimos (450g).
 
 Já sabia de uma receita boa, achei ela e converti para aproveitar todas cenouras:
 
