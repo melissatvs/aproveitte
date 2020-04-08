@@ -11,7 +11,7 @@ Em casa tinha muita cenoura para o tanto que consumimos (450g).
 
 Já sabia de uma receita boa, achei ela e converti para aproveitar todas cenouras:
 
-![Bolo](img/exemplo1.png)
+![Bolo](exemplo1.png)
 
 #### Ideias de desenvolvimento
 
