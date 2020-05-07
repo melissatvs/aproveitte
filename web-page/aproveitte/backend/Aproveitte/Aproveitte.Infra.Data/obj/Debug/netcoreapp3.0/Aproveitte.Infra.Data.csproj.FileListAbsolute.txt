@@ -1,0 +1,15 @@
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\bin\Debug\netcoreapp3.0\Aproveitte.Infra.Data.deps.json
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\bin\Debug\netcoreapp3.0\Aproveitte.Infra.Data.dll
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\bin\Debug\netcoreapp3.0\Aproveitte.Infra.Data.pdb
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\bin\Debug\netcoreapp3.0\Aproveitte.Dominio.dll
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\bin\Debug\netcoreapp3.0\Aproveitte.Dominio.pdb
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\obj\Debug\netcoreapp3.0\Aproveitte.Infra.Data.csprojAssemblyReference.cache
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\obj\Debug\netcoreapp3.0\Aproveitte.Infra.Data.AssemblyInfoInputs.cache
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\obj\Debug\netcoreapp3.0\Aproveitte.Infra.Data.AssemblyInfo.cs
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\obj\Debug\netcoreapp3.0\Aproveitte.Infra.Data.csproj.CopyComplete
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\obj\Debug\netcoreapp3.0\Aproveitte.Infra.Data.dll
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\obj\Debug\netcoreapp3.0\Aproveitte.Infra.Data.pdb
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\bin\Debug\netcoreapp3.0\Aproveitte.Infra.Data.runtimeconfig.json
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\bin\Debug\netcoreapp3.0\Aproveitte.Infra.Data.runtimeconfig.dev.json
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\obj\Debug\netcoreapp3.0\Aproveitte.Infra.Data.genruntimeconfig.cache
+E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Infra.Data\obj\Debug\netcoreapp3.0\Aproveitte.Infra.Data.csproj.CoreCompileInputs.cache
