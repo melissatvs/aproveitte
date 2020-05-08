@@ -7,10 +7,9 @@ Aproveitte tudo o que tem, zero despedícios!
 
 ### Bolo de Cenoura
 
-Tinha em casa muita cenoura para o tanto que consumimos em casa (450g).
+Em casa tinha muita cenoura para o tanto que consumimos (450g).
 
 Já sabia de uma receita boa, achei ela e converti para aproveitar todas cenouras:
-
 
 Receita Original | Receita Adaptada | Razão
 :----------------|:-----------------|:--------------
@@ -21,7 +20,6 @@ Receita Original | Receita Adaptada | Razão
 240 g de farinha de trigo | 400 g de farinha de trigo |
 8 g de fermento em pó | 13 g de fermento em pó |
 1 pitada de sal | 2 pitada de sal |
-
 
 #### Ideias de desenvolvimento
 
