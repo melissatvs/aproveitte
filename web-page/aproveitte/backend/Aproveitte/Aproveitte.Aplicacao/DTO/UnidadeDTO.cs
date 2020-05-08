@@ -4,7 +4,7 @@ namespace Aproveitte.Aplicacao.DTO
 {
     public class UnidadeDTO : DTOBase
     {
-        public int Nome { get; set; }
+        public string Nome { get; set; }
         public TipoMedida Tipo { get; set; }
     }
 }

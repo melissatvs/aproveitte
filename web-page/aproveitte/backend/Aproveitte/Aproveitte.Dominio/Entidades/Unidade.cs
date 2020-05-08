@@ -11,7 +11,7 @@ namespace Aproveitte.Dominio.Entidades
 
     public class Unidade : EntidadeBase
     {
-        public int Nome { get; set; }
+        public string Nome { get; set; }
 
         public TipoMedida Tipo { get; set; }
 
