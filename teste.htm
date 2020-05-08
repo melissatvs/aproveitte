@@ -1,0 +1,19 @@
+<iframe src=""></iframe>
+
+<script>
+	var http = new XMLHttpRequest();
+
+	var url_ = "https://www.tudogostoso.com.br/receita/49396-arroz-com-bacalhau.html"; // página de onde virá a div
+	http.open("GET", url_, true);
+	http.onreadystatechange = function(){
+	   if(http.readyState == 4){
+	      var html = http.responseText;
+	      // converte o retorno em elementos HTML
+	      html = new DOMParser().parseFromString(html, "text/html");
+	      let retorno = html.getElementById('info-user');
+
+	      console.log(retorno);
+	   }
+	}
+	http.send(null);
+</script>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTAS6Sq3YUe1Ka6ejeDq8T/Z7LRjiHEXC9ysCRY9U8GUl+viwK7meL7LlgVVMVtua6O5r2suhJs5vlZ3b2GpsQ==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\aproveitte\\web-page\\aproveitte\\backend\\Aproveitte\\Aproveitte.Dominio\\Aproveitte.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\melis\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\melis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
