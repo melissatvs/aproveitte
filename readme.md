@@ -11,7 +11,17 @@ Tinha em casa muita cenoura para o tanto que consumimos em casa (450g).
 
 Já sabia de uma receita boa, achei ela e converti para aproveitar todas cenouras:
 
-![Bolo](img/exemplo1.png)
+
+Receita Original | Receita Adaptada | Razão
+:----------------|:-----------------|:--------------
+270 g de cenoura | 450 g de cenoura | 1,7 receita
+200 ml de óleo | 333 ml de óleo |
+3 ovos | 5 ovos |
+360 g de açúcar | 600 g de açúcar |
+240 g de farinha de trigo | 400 g de farinha de trigo |
+8 g de fermento em pó | 13 g de fermento em pó |
+1 pitada de sal | 2 pitada de sal |
+
 
 #### Ideias de desenvolvimento
 
