@@ -1,0 +1,7 @@
+
+*.cache
+web-page/aproveitte/backend/Aproveitte/Aproveitte.Servicos.Api/obj/Debug/netcoreapp3.0/Aproveitte.Servicos.Api.csproj.FileListAbsolute.txt
+web-page/aproveitte/backend/Aproveitte/Aproveitte.Infra.Data/obj/Debug/netcoreapp3.0/Aproveitte.Infra.Data.csproj.FileListAbsolute.txt
+web-page/aproveitte/backend/Aproveitte/Aproveitte.Dominio/obj/Debug/netcoreapp3.0/Aproveitte.Dominio.csproj.FileListAbsolute.txt
+web-page/aproveitte/backend/Aproveitte/.vs/slnx.sqlite
+web-page/aproveitte/backend/Aproveitte/.vs/Aproveitte/v16/.suo
