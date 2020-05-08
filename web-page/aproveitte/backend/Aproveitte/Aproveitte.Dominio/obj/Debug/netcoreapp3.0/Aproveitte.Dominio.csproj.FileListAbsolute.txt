@@ -1,9 +1,0 @@
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\bin\Debug\netcoreapp3.0\Aproveitte.Dominio.deps.json
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\bin\Debug\netcoreapp3.0\Aproveitte.Dominio.dll
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\bin\Debug\netcoreapp3.0\Aproveitte.Dominio.pdb
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\obj\Debug\netcoreapp3.0\Aproveitte.Dominio.csprojAssemblyReference.cache
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\obj\Debug\netcoreapp3.0\Aproveitte.Dominio.csproj.CoreCompileInputs.cache
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\obj\Debug\netcoreapp3.0\Aproveitte.Dominio.AssemblyInfoInputs.cache
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\obj\Debug\netcoreapp3.0\Aproveitte.Dominio.AssemblyInfo.cs
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\obj\Debug\netcoreapp3.0\Aproveitte.Dominio.dll
-E:\GitHub\aproveitte\web-page\aproveitte\backend\Aproveitte\Aproveitte.Dominio\obj\Debug\netcoreapp3.0\Aproveitte.Dominio.pdb
