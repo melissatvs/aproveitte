@@ -1,0 +1,142 @@
+FORMAT: 1A
+HOST: https://aproveitte.com.br/api
+
+# Aproveitte
+
+API do Aproveite - Caderno de receitas inteligente
+
+
+## Data Structures
+
+### Ingredient (object)
+    + description (string) - descrição do ingrediente
+
+### Recipe (object)
+    + title (string) - Nome da receita
+    + ready_in (string) - Tempo de preparo
+    + servings (string) - Rendimento
+    + ingredients (array[Ingredient]) - Ingredientes
+
+
+
+## Receitas [/recipes/]
+
+### Adicionar receita [POST] 
+
+Adiciona uma nova receita ao caderno
+
++ Attributes
+    + recipe (Recipe)
+
++ Request (application/json)
+
+        [
+            {
+                "title": "Bolo de Cenoura",
+                "ready_in": "2 horas",
+                "servings": "10 porções"
+                "ingredients": [
+                    {
+                        "description": "3 cenouras médias"
+                    }, {
+                        "description": "1 xícara de farinha de trigo"
+                    }, {
+                        "description": "1 1/2 xícara de óleo"
+                    }, {
+                        "description": "1 colher de sopa de fermento"
+                    }
+                ]
+            }
+        ]
+
++ Response 200 (application/json)
+
+        [
+            {
+                "id": 1,
+                "title": "Bolo de Cenoura",
+                "ready_in": "2 horas",
+                "servings": "10 porções"
+                "ingredients": [
+                    {
+                        "description": "3 cenouras médias"
+                    }, {
+                        "description": "1 xícara de farinha de trigo"
+                    }, {
+                        "description": "1 1/2 xícara de óleo"
+                    }, {
+                        "description": "1 colher de sopa de fermento"
+                    }
+                ]
+            }
+        ]
+        
+
+### Buscar receitas [GET /recipes/{id}{?size}{?partial_title}{?limit}{?offset}{?sort}] 
+Retorna a receita com um novo tamanho
+
++ Parameters
+    + id (number, optional) - Id da receita.
+    + size: `1` (number, optional) - Tamanho das receitas, as quantidades serão multiplicadas pelo tamanho.
+        + Default: `1`
+    + partial_title (string, optional) - Nome da receita
+    + limit: `10` (number, optional) - Número de registros que serão retornados
+        + Default: `10`    
+    + offset: `0` (number, optional) - Registros que serão "pulados"
+        + Default: `0`
+    + sort: `title,-ready_in` (array[string], optional) - Ordem das receitas
+
++ Relation: recipe
+
++ Response 200 (application/json)
+
+        [
+            {
+                "id": 1,
+                "title": "Bolo de Cenoura",
+                "ready_in": "2 horas",
+                "servings": "10 porções"
+                "ingredients": [
+                    {
+                        "description": "3 cenouras médias"
+                    }, {
+                        "description": "1 xícara de farinha de trigo"
+                    }, {
+                        "description": "1 1/2 xícara de óleo"
+                    }, {
+                        "description": "1 colher de sopa de fermento"
+                    }
+                ]
+            }
+        ]
+        
+
+## Importar Receitas [/external-recipes{?url}]
+
+### Buscar receitas [GET] 
+Buscar todas receitas ou uma receita específica de acordo com os parâmetros (id, url)
+
++ Parameters
+    + url (string) - Url de uma receita
+
++ Response 200 (application/json)
+
+        [
+            {
+                "id": 1,
+                "title": "Bolo de Cenoura",
+                "ready_in": "2 horas",
+                "servings": "10 porções"
+                "ingredients": [
+                    {
+                        "description": "3 cenouras médias"
+                    }, {
+                        "description": "1 xícara de farinha de trigo"
+                    }, {
+                        "description": "1 1/2 xícara de óleo"
+                    }, {
+                        "description": "1 colher de sopa de fermento"
+                    }
+                ]
+            }
+        ]
