@@ -18,7 +18,6 @@ API do Aproveite - Caderno de receitas inteligente
     + ingredients (array[Ingredient]) - Ingredientes
 
 
-
 ## Receitas [/recipes/]
 
 ### Adicionar receita [POST] 
@@ -32,6 +31,60 @@ Adiciona uma nova receita ao caderno
 
         [
             {
+                "title": "Bolo de Cenoura",
+                "ready_in": "2 horas",
+                "servings": "10 porções"
+                "ingredients": [
+                    {
+                        "description": "3 cenouras médias"
+                    }, {
+                        "description": "1 xícara de farinha de trigo"
+                    }, {
+                        "description": "1 1/2 xícara de óleo"
+                    }, {
+                        "description": "1 colher de sopa de fermento"
+                    }
+                ]
+            }
+        ]
+
++ Response 201 (application/json)
+
+        [
+            {
+                "id": 1,
+                "title": "Bolo de Cenoura",
+                "ready_in": "2 horas",
+                "servings": "10 porções"
+                "ingredients": [
+                    {
+                        "description": "3 cenouras médias"
+                    }, {
+                        "description": "1 xícara de farinha de trigo"
+                    }, {
+                        "description": "1 1/2 xícara de óleo"
+                    }, {
+                        "description": "1 colher de sopa de fermento"
+                    }
+                ]
+            }
+        ]
+        
+### Altera receita [PUT /recipes/{id}] 
+
+Altera uma receita existente
+
++ Parameters
+    + id (number) - Id da receita.
+
++ Attributes
+    + recipe (Recipe)
+
++ Request (application/json)
+
+        [
+            {
+                "id": 1,
                 "title": "Bolo de Cenoura",
                 "ready_in": "2 horas",
                 "servings": "10 porções"
@@ -70,9 +123,20 @@ Adiciona uma nova receita ao caderno
                 ]
             }
         ]
-        
 
-### Buscar receitas [GET /recipes/{id}{?size}{?partial_title}{?limit}{?offset}{?sort}] 
+### Exclui receita [DELETE /recipes/{id}] 
+
+Exclui uma receita existente
+
++ Parameters
+    + id (number) - Id da receita.
+
++ Attributes
+    + recipe (Recipe)
+
++ Response 204 (application/json)
+
+### Buscar receitas [GET /recipes/{id}/{?size}{?partial_title}{?limit}{?offset}{?sort}] 
 Retorna a receita com um novo tamanho
 
 + Parameters
